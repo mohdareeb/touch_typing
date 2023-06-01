@@ -1,0 +1,67 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Playfair:wght@500&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Playfair:wght@500&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    
+    background-repeat: no-repeat;
+    font-family: 'Playfair', serif;
+    /* background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190828/pngtree-design-background-of-person-working-on-his-computer-in-top-view-image_307725.jpg");
+    background-size: auto; */
+    
+    
+}
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-shadow: 0cqh;
+    padding: 5px;
+}
+
+
+
+.words_heading{
+    text-align: center;
+}
+
+.container{
+    /* background-image: url("images.jpg"); */
+    display: flex;
+    margin-top:60px;
+    
+}
+
+.left_class{
+    width: 43%;
+    margin-right: 32px;
+    padding: 10px;
+    /* background-color: rgb(218, 133, 133); */
+    color: black;
+    border: 3px solid;
+    border-radius: 5%;
+    box-shadow: 12px;
+    font-size: 17px;
+}
+
+.middle_class{
+    width: 55%;
+    padding: 18px;
+    /* background-color: rgb(183, 250, 244); */
+    border: 2px solid;
+    border-radius: 5%;
+}
+
+.right_class{
+    border:2px solid green;
+    padding: 40px;
+    margin: 44px;
+}
+
+.Footer{
+    margin-top: 17px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
