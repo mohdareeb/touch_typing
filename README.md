@@ -1,4 +1,4 @@
-# What is touch typing ?
+# What is Touch Typing ?
 Touch typing is a method of typing without the use of the sense of sight, or simply by feeling the keyboard. 
 However, the sense of touch is only slightly involved since this typing method is governed by muscle memory through rigorous training 
 with the proper typing method. This way, the fingers get so used to typing that they instinctively go to the appropriate keys 
